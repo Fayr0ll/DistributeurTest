@@ -453,3 +453,5 @@ FodyWeavers.xsd
 /[Aa]lgo/*
 
 !/[Aa]lgo/Current/
+
+!/[Aa]lgo/Old/
